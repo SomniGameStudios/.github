@@ -1,0 +1,12 @@
+name: TASK template
+description: For creating a task
+title: "[TASK] "
+type: TASK
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Describe your TASK
+    validations:
+      required: true

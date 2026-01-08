@@ -1,0 +1,12 @@
+name: PBI template
+description: A product backlog item for new functionality or requirements
+title: "[PBI] "
+type: PBI
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Describe your PBI
+    validations:
+      required: true

@@ -1,0 +1,12 @@
+name: BUG template
+description: For creating a bug
+title: "[BUG] "
+type: BUG
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Describe your BUG
+    validations:
+      required: true
