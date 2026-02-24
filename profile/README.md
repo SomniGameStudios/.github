@@ -66,9 +66,7 @@ Many of the bridges between Godot and these native services are being developed 
 These are some of the integrations we're actively building and maintaining:
 
 - [godot-firebase-ios](https://github.com/SomniGameStudios/godot-firebase-ios) – Firebase integration for Godot iOS
-- [GodotFirebaseAndroid](https://github.com/syntaxerror247/GodotFirebaseAndroid) – Firebase integration for Godot Android
 - [godot-facebook-sdk-android](https://github.com/SomniGameStudios/godot-facebook-sdk-android) – Facebook SDK integration for Godot Android
-- [godot-admob-plugin](https://github.com/poingstudios/godot-admob-plugin) – AdMob integration for Godot
 - [godot-gdscript-toolkit](https://github.com/SomniGameStudios/godot-gdscript-toolkit) – Static testing toolkit for Godot GDScript
 
 More coming as Stepland grows.
