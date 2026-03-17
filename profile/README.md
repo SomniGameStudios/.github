@@ -1,7 +1,8 @@
 # SomniGameStudios
 
 We're building **[Stepland](https://stepland.es)** – a gamified healthy habits mobile game where your real-world physical activity brings a virtual village to life.
-
+- Instagram: 🌱📸 https://instagram.com/stepland
+- Discord: 💬🎮 https://discord.gg/YsPyFQcPPt
 Built with the [Godot Engine](https://godotengine.org) for Android and iOS.
 
 ---
