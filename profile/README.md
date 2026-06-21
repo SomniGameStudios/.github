@@ -45,16 +45,16 @@ Shipping a real mobile game means real mobile infrastructure.
 
 Here's what powers Stepland:
 
-- **Backend** – Firebase + [PlayFab](https://github.com/Structed/godot-playfab)
-- **Authentication** – Firebase ([godot-firebase-ios](https://github.com/SomniGameStudios/godot-firebase-ios) for iOS, [godot-firebase-android](https://github.com/SomniGameStudios/godot-firebase-android) for Android)
-- **Push Notifications** – Firebase ([godot-firebase-ios](https://github.com/SomniGameStudios/godot-firebase-ios) for iOS, [godot-firebase-android](https://github.com/SomniGameStudios/godot-firebase-android) for Android)
-- **IAPs & Subscriptions** – [godot-google-play-billing](https://github.com/godot-sdk-integrations/godot-google-play-billing) for Android), StoreKit2 ([GodotApplePlugins](https://github.com/migueldeicaza/GodotApplePlugins) for iOS), RevenueCat ([revenuecat](https://github.com/godot-x/revenuecat))
+- **Backend** – Firebase ([godot-firebase-ios](https://github.com/SomniGameStudios/godot-firebase-ios) for iOS, [godot-firebase-android](https://github.com/SomniGameStudios/godot-firebase-android) for Android)
+- **Authentication** – Firebase
+- **Push Notifications** – Firebase
+- **IAPs & Subscriptions** – [godot-google-play-billing](https://github.com/godot-sdk-integrations/godot-google-play-billing) for Android, StoreKit2 [GodotApplePlugins](https://github.com/migueldeicaza/GodotApplePlugins) for iOS, RevenueCat [revenuecat](https://github.com/godot-x/revenuecat)
 - **In-App Ads** – Google Admob [godot-admob-plugin](https://github.com/poingstudios/godot-admob-plugin)
-- **Crash Reporting** – Sentry ([docs](https://docs.sentry.io/platforms/godot/))
-- **Attribution / MMP** – Adjust ([godot-adjust-plugin](https://github.com/SomniGameStudios/godot-adjust-plugin))
-- **Social Features** – Firebase ([godot-firebase-ios](https://github.com/SomniGameStudios/godot-firebase-ios) for iOS, [godot-firebase-android](https://github.com/SomniGameStudios/godot-firebase-android) for Android)
-- **Analytics** – Firebase Analytics ([godot-firebase-ios](https://github.com/SomniGameStudios/godot-firebase-ios) for iOS, [godot-firebase-android](https://github.com/SomniGameStudios/godot-firebase-android) for Android)
-- **Health Data** – HealthKit [godot-healthkit-plugin](https://github.com/slowestmonkey/godot-healthkit-plugin) for iOS, HealthConnect [godot-healthconnect-plugin](https://github.com/SomniGameStudios/godot-healthconnect-plugin) for Android)
+- **Crash Reporting** – Sentry [docs](https://docs.sentry.io/platforms/godot/)
+- **Attribution / MMP** – Adjust [godot-adjust-plugin](https://github.com/SomniGameStudios/godot-adjust-plugin)
+- **Social Features** – Firebase
+- **Analytics** – Firebase Analytics
+- **Health Data** – HealthKit [godot-healthkit-plugin](https://github.com/slowestmonkey/godot-healthkit-plugin) for iOS, HealthConnect [godot-healthconnect-plugin](https://github.com/SomniGameStudios/godot-healthconnect-plugin) for Android
 - **Testing** – GdUnit4 [gdUnit4](https://github.com/MikeSchulze/gdUnit4)
 - **Static Testing** – gdlint [godot-gdscript-toolkit](https://github.com/SomniGameStudios/godot-gdscript-toolkit)
 - **CI/CD** – GitHub Actions
@@ -79,7 +79,7 @@ These are some of the integrations we're actively building and maintaining:
 - [godot-facebook-sdk-android](https://github.com/SomniGameStudios/godot-facebook-sdk-android) – Facebook SDK integration for Godot Android
 
 ### Tools
-- [godot-lsp-cli](https://github.com/SomniGameStudios/godot-lsp-cli)
+- [godot-lsp-cli](https://github.com/SomniGameStudios/godot-lsp-cli) - CLI that talks to Godot's built-in LSP.
 - [godot-gdscript-toolkit](https://github.com/SomniGameStudios/godot-gdscript-toolkit) – Static testing toolkit for Godot GDScript
 
 
