@@ -1,7 +1,7 @@
 # SomniGameStudios
 
 We're building **[Stepland](https://stepland.es)** – a gamified healthy habits mobile game where your real-world physical activity brings a virtual village to life.
-- Instagram: 🌱📸 https://instagram.com/stepland
+- Instagram: 🌱📸 https://instagram.com/steplandworld
 - Discord: 💬🎮 https://discord.gg/YsPyFQcPPt
 
 Built with the [Godot Engine](https://godotengine.org) for Android and iOS.
@@ -67,10 +67,21 @@ Many of the bridges between Godot and these native services are being developed 
 
 These are some of the integrations we're actively building and maintaining:
 
-- [godot-firebase-ios](https://github.com/SomniGameStudios/godot-firebase-ios) – Firebase integration for Godot iOS
-- [godot-facebook-sdk-android](https://github.com/SomniGameStudios/godot-facebook-sdk-android) – Facebook SDK integration for Godot Android
-- [godot-gdscript-toolkit](https://github.com/SomniGameStudios/godot-gdscript-toolkit) – Static testing toolkit for Godot GDScript
+### SDK integrations
+- [godot-firebase-ios](https://github.com/SomniGameStudios/godot-firebase-ios) – Firebase SDK integration for iOS
+- [godot-firebase-android](https://github.com/SomniGameStudios/godot-firebase-android) - Firebase SDK integration for Android
+
+- [godot-adjust-plugin](https://github.com/SomniGameStudios/godot-adjust-plugin) - Adjust SDK integration
+
+- [godot-healthkit-plugin](https://github.com/SomniGameStudios/godot-healthkit-plugin) - HealthKit SDK integration
 - [godot-healthconnect-plugin](https://github.com/SomniGameStudios/godot-healthconnect-plugin) - HealthConnect SDK integration
+
+- [godot-facebook-sdk-android](https://github.com/SomniGameStudios/godot-facebook-sdk-android) – Facebook SDK integration for Godot Android
+
+### Tools
+- [godot-lsp-cli](https://github.com/SomniGameStudios/godot-lsp-cli)
+- [godot-gdscript-toolkit](https://github.com/SomniGameStudios/godot-gdscript-toolkit) – Static testing toolkit for Godot GDScript
+
 
 More coming as Stepland grows.
 
