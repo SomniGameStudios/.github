@@ -46,9 +46,9 @@ Shipping a real mobile game means real mobile infrastructure.
 Here's what powers Stepland:
 
 - **Backend** – Firebase + [PlayFab](https://github.com/Structed/godot-playfab)
-- **Authentication** – Firebase ([godot-firebase-ios](https://github.com/SomniGameStudios/godot-firebase-ios) for iOS, [GodotFirebaseAndroid](https://github.com/syntaxerror247/GodotFirebaseAndroid) for Android)
-- **Push Notifications** – Firebase ([godot-firebase-ios](https://github.com/SomniGameStudios/godot-firebase-ios) for iOS, [GodotFirebaseAndroid](https://github.com/syntaxerror247/GodotFirebaseAndroid) for Android)
-- **IAPs & Subscriptions** – [godot-google-play-billing](https://github.com/godot-sdk-integrations/godot-google-play-billing) (Android), StoreKit2 (iOS), RevenueCat
+- **Authentication** – Firebase ([godot-firebase-ios](https://github.com/SomniGameStudios/godot-firebase-ios) for iOS, [godot-firebase-android](https://github.com/SomniGameStudios/godot-firebase-android) for Android)
+- **Push Notifications** – Firebase ([godot-firebase-ios](https://github.com/SomniGameStudios/godot-firebase-ios) for iOS, [godot-firebase-android](https://github.com/SomniGameStudios/godot-firebase-android) for Android)
+- **IAPs & Subscriptions** – [godot-google-play-billing](https://github.com/godot-sdk-integrations/godot-google-play-billing) (Android), StoreKit2 ([GodotApplePlugins] (https://github.com/migueldeicaza/GodotApplePlugins) for iOS), RevenueCat
 - **In-App Ads** – [godot-admob-plugin](https://github.com/poingstudios/godot-admob-plugin)
 - **Crash Reporting** – [Sentry](https://docs.sentry.io/platforms/godot/) (planned)
 - **Attribution / MMP** – TBD
